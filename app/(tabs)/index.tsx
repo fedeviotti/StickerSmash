@@ -1,6 +1,6 @@
 import { StyleSheet, View } from "react-native";
 
-import Button from "@/components/Button";
+import Button from "../../components/Button";
 import ImageViewer from "../../components/ImageViewer";
 
 const PlaceholderImage = require("@/assets/images/background-image.png");
